@@ -7,4 +7,7 @@ fun main()
     kocsiSzalon.LoadIn()
     println( kocsiSzalon.toString())
 }
+<<<<<<< HEAD
+=======
 
+>>>>>>> a769db49d91ff012df09bc1f72ec071fd6a7fa30
