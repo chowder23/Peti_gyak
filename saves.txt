@@ -1,0 +1,1 @@
+Plate: 123-asd, Type: FERRARI, HorsePower: 500, Price: 50000000
