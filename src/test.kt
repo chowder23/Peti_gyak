@@ -5,8 +5,6 @@ fun main()
     kocsiSzalon.addNewCar(Car("123-asd",CarType.FERRARI,500,50000000))
     kocsiSzalon.addNewCar(Car("ABC-123",CarType.SUZUKI,50,10000))
     kocsiSzalon.SaveOut()
+    kocsiSzalon.LoadIn()
+    println( kocsiSzalon.toString())
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> a769db49d91ff012df09bc1f72ec071fd6a7fa30
