@@ -1,3 +1,3 @@
-enum class Type {
+enum class CarType {
     FERRARI,HONDA,SUZUKI,FIAT,OPEL
 }
