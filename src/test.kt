@@ -6,4 +6,5 @@ fun main()
     kocsiSzalon.SaveOut()
     kocsiSzalon.LoadIn()
     println( kocsiSzalon.toString())
+    
 }
